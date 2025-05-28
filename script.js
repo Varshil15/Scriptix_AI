@@ -38,5 +38,5 @@ function getBotReply(userText) {
     if (userText.toLowerCase().includes('bye')) {
         return "Vetino tha kai kaam nathi";
     }
-    return "Haithe google karilene ";
+    return "Haithe google karilene (Do Google by Yourself)";
 }
